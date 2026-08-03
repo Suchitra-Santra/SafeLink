@@ -188,3 +188,10 @@ git push origin feature-name
 5. Open a Pull Request
 
 ---
+# 👩‍💻 Author
+
+### Suchitra Santra
+
+GitHub: https://github.com/Suchitra-Santra
+
+If you found this project useful, consider giving it a ⭐ on GitHub!

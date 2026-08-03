@@ -148,3 +148,17 @@ SafeLink/
 ```
 
 ---
+
+---
+
+# 🎯 Future Scope
+
+- 🤖 AI-based phishing detection
+- 🔒 Browser Extension
+- 🌐 Real-time URL reputation
+- 📊 Scan History
+- 👤 User Authentication
+- 🌙 Dark Mode
+- 📱 Progressive Web App (PWA)
+
+---

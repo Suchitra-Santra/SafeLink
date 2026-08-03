@@ -49,3 +49,15 @@ SafeLink is a web application designed to promote safer internet browsing by all
 The application features a clean UI, responsive design, and fast performance to deliver a smooth user experience across desktop and mobile devices.
 
 ---
+
+# ✨ Features
+
+- 🔗 URL Validation
+- 🛡️ Secure Link Analysis
+- ⚡ Fast Response
+- 🎨 Modern UI
+- 📱 Responsive Design
+- 🚀 Deployed on Vercel
+- 🌙 Easy-to-use Interface
+
+---

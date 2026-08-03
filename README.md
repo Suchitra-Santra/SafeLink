@@ -16,3 +16,13 @@
 </p>
 
 ---
+
+## 🌐 Live Demo
+
+🔗 **https://safe-link-sigma.vercel.app/**
+
+## 💻 GitHub Repository
+
+🔗 **https://github.com/Suchitra-Santra/SafeLink**
+
+---

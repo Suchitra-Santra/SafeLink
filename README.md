@@ -90,3 +90,37 @@ The application features a clean UI, responsive design, and fast performance to 
 
 
 ---
+
+# 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Suchitra-Santra/SafeLink.git
+```
+
+Navigate to the project directory
+
+```bash
+cd SafeLink
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---

@@ -74,3 +74,19 @@ The application features a clean UI, responsive design, and fast performance to 
 | Vercel | Deployment |
 
 ---
+# 📸 Screenshots
+
+## 🔍 URL Analysis
+
+<img width="1893" height="823" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/a4658c82-d9f6-4921-92f5-bfc851e2589f" />
+
+
+
+---
+
+## ✅ Result Page
+
+<img width="1882" height="976" alt="Screenshot (235)" src="https://github.com/user-attachments/assets/b8905bb2-581f-4105-a446-f39c4b918278" />
+
+
+---

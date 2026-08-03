@@ -124,3 +124,27 @@ npm run build
 ```
 
 ---
+
+# 📁 Project Structure
+
+```text
+SafeLink/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── screenshots/
+│   ├── analysis.png
+│   └── result.png
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---

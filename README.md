@@ -41,3 +41,11 @@
 - Author
 
 ---
+
+# 📖 About
+
+SafeLink is a web application designed to promote safer internet browsing by allowing users to analyze and validate URLs before visiting them.
+
+The application features a clean UI, responsive design, and fast performance to deliver a smooth user experience across desktop and mobile devices.
+
+---

@@ -61,3 +61,16 @@ The application features a clean UI, responsive design, and fast performance to 
 - 🌙 Easy-to-use Interface
 
 ---
+
+# 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend |
+| JavaScript | Logic |
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Vite | Build Tool |
+| Vercel | Deployment |
+
+---

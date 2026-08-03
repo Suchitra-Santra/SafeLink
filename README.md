@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Project-SafeLink-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20With-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Made%20With-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel" />
 </p>
 
@@ -66,11 +66,11 @@ The application features a clean UI, responsive design, and fast performance to 
 
 | Technology | Purpose |
 |------------|---------|
-| React.js | Frontend |
+| HTML | Frontend |
 | JavaScript | Logic |
 | HTML5 | Structure |
 | CSS3 | Styling |
-| Vite | Build Tool |
+| Python | Backend|
 | Vercel | Deployment |
 
 ---
@@ -130,21 +130,19 @@ npm run build
 ```text
 SafeLink/
 │
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
+│
+├── templates/
+│   └── index.html
 │
 ├── screenshots/
 │   ├── analysis.png
 │   └── result.png
 │
-├── package.json
-├── vite.config.js
-└── README.md
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 ```
 
 ---

@@ -143,11 +143,6 @@ SafeLink/
 ├── README.md
 └── .gitignore
 ```
-```
-
----
-
----
 
 # 🎯 Future Scope
 

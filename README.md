@@ -26,3 +26,18 @@
 🔗 **https://github.com/Suchitra-Santra/SafeLink**
 
 ---
+
+
+# 📑 Table of Contents
+
+- About
+- Features
+- Tech Stack
+- Screenshots
+- Installation
+- Project Structure
+- Future Scope
+- Contributing
+- Author
+
+---
